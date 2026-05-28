@@ -1,39 +1,26 @@
+okccomputer ~ [session: active]
+<br>
 <pre>
-┌─────────────────────────────────────────────────────────────────────┐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                           
-                                  未来                                 
-├─────────────────────────────────────────────────────────────────────┤⠀
-│                                                                     │        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ⢀⣤⣶⣶⠿⠿⠿⣶⣦⣀⠀⠀⠀
-|                                                                     │                       ⣠⡾⠛⠉⠀⠀⠀⠀⠀⠀⠉⠻⣧⡀⠀
-|                                                                     │         ⢠⣄⣀⣀⣀⣀⣀⣀⣀⣴⠋⠀⠀⠀⠀⠀⣴⣆⠀⠀⠀⠀⠘⣿⡀
-|                                                                     │           ⠙⠻⣿⣟⠛⠛⠛⠋⠁⠀⠀⠀⠀⠀⠘⠿⠋⠀⠀⠀⠀⠀⣿⡇
-|                                                                     │               ⠀⠙⢷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡇
-|                                                                     │                   ⠘⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣽⠃
-|                                                                     │                   ⢰⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀
-|                                                                     │                   ⣾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡿⠀
-|                                                                     │                   ⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠃⠀
-|                                                                     │                  ⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⠀
-|                                                                     │                 ⣾⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠇⠀⠀
-│                                                                     │
-│                                                                     │ 
-│                                                                     │
-│                                                                     │
-│                                                                     │⠀⠀  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-│                                                                     │  ⠀
-│                                                                     │  ⠀
-└─────────────────────────────────────────────────────────────────────┘          
+   <img align="right" src="LINK_DA_SUA_IMAGEM_ASCII.png" width="300">
+   <img align="left" src="LINK_DO_SEU_LOGO.png" width="100">
+
+   $ whoami
+   _________________________________________________________
+  |                                                         |
+  |                                                         |
+  | Eduardo Caetano • Computer Science Student • UFU        |
+  | Uberlândia, MG. • BR                                    |
+  |                                                         |
+  |_________________________________________________________|
+
+   $ cat skills.txt
+
+   [languages]          C • C++ • C#
+  
+  $ cat personal.txt
+
+   hobbies:
+    gaming • anime • chess • vintage tech • reading
+
+   $ _
 </pre>
-
-<!--
-**okcccomputer/okcccomputer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

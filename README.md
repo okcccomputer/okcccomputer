@@ -7,7 +7,7 @@ okccomputer ~ [session: active]
    _________________________________________________________
   |                                                         |
   |                                                         |
-  | Eduardo Caetano • Computer Science Student • UFU        |
+  | Eduardo Caetano • Information Systems • UFU             |
   | Uberlândia, MG. • BR                                    |
   |                                                         |
   |_________________________________________________________|

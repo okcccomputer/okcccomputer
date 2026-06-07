@@ -1,8 +1,7 @@
 okccomputer ~ [session: active]
 <br>
 <pre>
-   //<img align="right" src="LINK_DA_SUA_IMAGEM_ASCII.png" width="300">
-   <img align="left" src="LINK_DO_SEU_LOGO.png" width="100">//
+ 
 
    $ whoami
    _________________________________________________________

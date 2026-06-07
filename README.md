@@ -3,7 +3,17 @@ okccomputer ~ [session: active]
 <pre>
  
 
-   $ whoami
+                                                                                                  ⢀⣤⣶⣶⠿⠿⠿⣶⣦⣀⠀⠀⠀
+                                                                                                ⣠⡾⠛⠉⠀⠀⠀⠀⠀⠀⠉⠻⣧⡀⠀
+                                                                                 ⢠⣄⣀⣀⣀⣀⣀⣀⣀⣴⠋⠀⠀⠀⠀⠀⣴⣆⠀⠀⠀⠀⠘⣿⡀
+                                                                                   ⠙⠻⣿⣟⠛⠛⠛⠋⠁⠀⠀⠀⠀⠀⠘⠿⠋⠀⠀⠀⠀⠀⣿⡇
+                                                                                     ⠀ ⠙⢷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡇
+                                                                                         ⠘⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣽⠃
+                                                                                         ⢰⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀
+                                                                                         ⣾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡿⠀
+                                                                                         ⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠃⠀
+                                                                                        ⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⠀
+    $ whoami                                                                           ⣾⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠇⠀
    _________________________________________________________
   |                                                         |
   |                                                         |
@@ -19,7 +29,7 @@ okccomputer ~ [session: active]
   $ cat personal.txt
 
    hobbies:
-    gaming • anime • vkei • retrogaming • reading
+    gaming • anime • manga • retrogaming • reading
 
    $ _
 </pre>

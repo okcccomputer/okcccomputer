@@ -20,7 +20,7 @@ okccomputer ~ [session: active]
   $ cat personal.txt
 
    hobbies:
-    gaming • anime • chess • vintage tech • reading
+    gaming • anime • vkei • retrogaming • reading
 
    $ _
 </pre>
